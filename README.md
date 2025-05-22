@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lalit — Backend Engineer | Graph Systems | AI Workflows
+# 👋 Hi, I'm Lalit Kumar Pal — Software Engineer | Graph Systems | AI Workflows
 
 🚀 I specialize in designing scalable, intelligent backend systems with deep experience in knowledge graphs, cloud-native infrastructure, and applied AI.
 
