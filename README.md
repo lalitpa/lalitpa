@@ -55,5 +55,4 @@ CI/CD via GitHub Actions cut deployment time by 90%.
 ## 🔗 Links
 
 - 🌐 [LinkedIn](https://linkedin.com/in/lalit-kumar-pal)
-- 💻 [GitHub](https://github.com/lalit-kumar-pal)
 - 🧠 [Neo4j GraphAcademy Certificate](https://graphacademy.neo4j.com/c/163b55e1-06d4-42f4-923c-92477a96e5ab/)
